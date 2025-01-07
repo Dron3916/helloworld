@@ -10,7 +10,7 @@
 ## Использование
 
 ```python
-from helloworld import HelloWorld, HelloName, HelloUser
+from helloeverything import HelloWorld, HelloName, HelloUser
 
 # Вывод стандартного сообщения
 HelloWorld()  # Результат: Hello, World!
